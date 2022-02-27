@@ -1,0 +1,4 @@
+#Mon Feb 28 00:21:55 EET 2022
+base.0=D\:\\Belgeler\\AndroidStudioProjects\\hava_durumu-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
